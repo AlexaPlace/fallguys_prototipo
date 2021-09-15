@@ -898,3 +898,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.15-22.47.19:984][884]LogSlate: Window 'Submit Files' being destroyed
 [2021.09.15-22.47.20:261][884]SourceControl: Error: fatal: pathspec 'C:/Users/Alex/Documents/GitHub/fallguys_prototipo/FallGays.uproject' did not match any files
 [2021.09.15-22.47.20:498][884]SourceControl: Error: error: pathspec 'C:/Users/Alex/Documents/GitHub/fallguys_prototipo/FallGays.uproject' did not match any file(s) known to git
+[2021.09.15-22.57.08:928][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mapa__4__Cubo)
+[2021.09.15-22.57.09:574][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mapa__4__Cubo)
+[2021.09.15-22.57.25:060][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.09.15-22.57.29:833][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.09.15-22.57.29:992][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.09.15-22.57.30:028][706]LogSavePackage: Moving '../../../../../../Users/Alex/Documents/GitHub/fallguys_prototipo/Saved/ThirdPersonExampleMap46EDC5CF454DA5C10EACF09EE8844EFE.tmp' to '../../../../../../Users/Alex/Documents/GitHub/fallguys_prototipo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.15-22.57.30:039][706]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.055
+[2021.09.15-22.57.30:056][706]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.09.15-22.57.30:056][706]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.15-22.58.53:754][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.09.15-22.58.54:026][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.15-22.58.54:071][523]LogSavePackage: Moving '../../../../../../Users/Alex/Documents/GitHub/fallguys_prototipo/Saved/ThirdPersonExampleMapA28E6F144F7FFB25EFEFBEA1317E2EDD.tmp' to '../../../../../../Users/Alex/Documents/GitHub/fallguys_prototipo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.15-22.58.54:082][523]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.073
+[2021.09.15-22.58.54:097][523]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.09.15-22.58.54:097][523]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
